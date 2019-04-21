@@ -21,4 +21,8 @@ Make sure you have tkinter installed: `sudo apt-get install python3-tk`
 
 Langton's Ant shows the following pattern after 11000 steps.
 
+<p align="center">
+  
 ![Langton's Ant](https://upload.wikimedia.org/wikipedia/commons/d/d3/LangtonsAnt.png)
+
+</p>
