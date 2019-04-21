@@ -23,6 +23,6 @@ Langton's Ant shows the following pattern after 11000 steps.
 
 <p align="center">
   
-![Langton's Ant](https://upload.wikimedia.org/wikipedia/commons/d/d3/LangtonsAnt.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/LangtonsAnt.png" alt="Langton's Ant After 11000 Steps">
 
 </p>
