@@ -7,9 +7,9 @@ This explains it well: https://en.wikipedia.org/wiki/Langton%27s_ant
 
 ### To Use
 
-Clone the repo: `git clone https://github.com/yashlamba/SnakeSweeper.git`
+Clone the repo: `git clone https://github.com/yashlamba/Langtons-Ant.git`
 
-Change Directory: `cd SnakeSweeper`
+Change Directory: `cd Langtons-Ant`
 
 Run Simulator: `python3 main.py`
 
